@@ -1,0 +1,1 @@
+This repo contains code examples featured in the CAS webinar, ["Higher Learning: An Introduction to Hierarchical Linear Models"](https://www.casact.org/event/webinar-higher-learning-introduction-hierarchical-linear-models). Please ask questions, report bugs and request features by opening a new issue: https://github.com/casact/pres_higher_learning/issues.
